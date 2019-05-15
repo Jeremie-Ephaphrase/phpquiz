@@ -1,0 +1,36 @@
+body{
+    background-image: url("../image/pic.jpg");
+    background-size: cover;
+}
+
+h1 {
+    color: darkgoldenrod;
+    text-align: center;
+    text-emphasis: bold;
+}
+
+h2{
+    color: white;
+    text-align: center;
+}
+
+h3{
+    color : crimson;
+}
+
+label{
+    color : white;
+}
+
+.wrapper {
+	
+	width:950px;
+	 height:auto;
+	 padding: 13px;
+	 margin-right:auto;
+	 margin-left:auto;
+     background-color:black;}
+
+input{
+    background-color : orange;
+}
