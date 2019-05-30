@@ -1,4 +1,4 @@
-body{
+body {
     background-image: url("../image/pic.jpg");
     background-size: cover;
 }
@@ -9,28 +9,33 @@ h1 {
     text-emphasis: bold;
 }
 
-h2{
+h2 {
     color: white;
     text-align: center;
+    font-size: 30px;
 }
 
-h3{
-    color : crimson;
+h3 {
+    color: crimson;
+    font-size: 25px;
 }
 
-label{
-    color : white;
+label {
+    color: white;
+    text-transform: capitalize;
+    font-size: 20px;
 }
 
 .wrapper {
-	
-	width:950px;
-	 height:auto;
-	 padding: 13px;
-	 margin-right:auto;
-	 margin-left:auto;
-     background-color:black;}
+    width: 950px;
+    height: auto;
+    padding: 13px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: black;
+}
 
-input{
-    background-color : orange;
+input {
+    border: 1px solid orange;
+    background-color: orange;
 }
